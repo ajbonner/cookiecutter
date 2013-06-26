@@ -11,6 +11,6 @@
     "scripts": [ "background.js" ]
   },
   "permissions": [
-    "cookies", "tabs", "*.telegraph.co.uk"
+    "cookies", "tabs", "<all_urls>"
   ]
 }
